@@ -1,0 +1,5 @@
+
+    ¿Qué aprendí?
+	apendrí a manejar modulos mediante el uso de pruebas automatizadas de funcionamiento.
+    ¿Qué valor tienen las pruebas en el ámbito profesional?
+	Realizar pruebas establecidas y generales nos permiten tener un control total de la aplicacion en diferentes momentos y entornos.
